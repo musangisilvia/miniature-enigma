@@ -1,0 +1,8 @@
+{
+  "clientId": "94df8176-bb57-498d-8482-e149462990cf",
+  "oauthServerUrl": "https://eu-gb.appid.cloud.ibm.com/oauth/v4/6e350d5f-df7f-4a34-8858-a6f7b5e3fe62",
+  "profilesUrl": "https://eu-gb.appid.cloud.ibm.com",
+  "secret": "ZDI3YWExYWEtNTgxZi00M2FkLTliNWUtYzllMDNmYWI1MjZi",
+  "tenantId": "6e350d5f-df7f-4a34-8858-a6f7b5e3fe62",
+  "redirectUri": "http://localhost:3000/ibm/cloud/appid/callback"
+}
